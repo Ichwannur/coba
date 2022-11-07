@@ -6,7 +6,7 @@
 
     //buat 3 buah method
     void cylinder(float rbase,float rtop,float height); //menggambar silinder
-    void blok(float tebal,int ratiol,int ratiop); //menggambar blok
+    void blok(float tebal,int ratiol,int ratiop); //menggambar blok MASIH COBA KE 3
     void bilah (float r_inner,float r_outer,float tebal,int batang); //menggambar bilah
 
     //atur layar
