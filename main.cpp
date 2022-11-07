@@ -37,7 +37,7 @@
     void init(void) //fungsi untuk membuat tempat menggambar
     {
 
-    glShadeModel(GL_SMOOTH);// MENGHALUSKAN TEKSTUR
+    glShadeModel(GL_SMOOTH);// MENGHALUSKAN TEKSTUR TESTES
     //glViewport(1000,0,screen_width,screen_height);
     //glMatrixMode(GL_PROJECTION);
     //glLoadIdentity();
