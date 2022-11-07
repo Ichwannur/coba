@@ -5,8 +5,10 @@
 #include <GL/glut.h> //library grafik MASIHCOBA
 
     //buat 3 buah method
+
     void cylinder(float rbase,float rtop,float height); //menggambar silinder DAN AKAN MASIH COBA2
     void blok(float tebal,int ratiol,int ratiop); //menggambar blok
+
     void bilah (float r_inner,float r_outer,float tebal,int batang); //menggambar bilah
 
     //atur layar
@@ -37,7 +39,7 @@
     void init(void) //fungsi untuk membuat tempat menggambar
     {
 
-    glShadeModel(GL_SMOOTH);// MENGHALUSKAN TEKSTUR
+    glShadeModel(GL_SMOOTH);// MENGHALUSKAN TEKSTUR TESTES
     //glViewport(1000,0,screen_width,screen_height);
     //glMatrixMode(GL_PROJECTION);
     //glLoadIdentity();
@@ -112,7 +114,7 @@
 
 
 
-//lukman awal
+//lukman awal DISINI KITA COBA
 //E1E121004 LA ODE LUKMANA
     // definisikan kondisi pergerakan penolehan
      if ( Toleh==true)
