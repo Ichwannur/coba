@@ -2,7 +2,7 @@
 // LINE 1 SAMPAI LINE 55
 
 #include <windows.h> //membersihkan layar
-#include <GL/glut.h> //library grafik
+#include <GL/glut.h> //library grafik MASIHCOBA
 
     //buat 3 buah method
     void cylinder(float rbase,float rtop,float height); //menggambar silinder
