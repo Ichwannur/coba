@@ -112,7 +112,7 @@
 
 
 
-//lukman awal
+//lukman awal DISINI KITA COBA
 //E1E121004 LA ODE LUKMANA
     // definisikan kondisi pergerakan penolehan
      if ( Toleh==true)
